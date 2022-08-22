@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zl4gQknLwsrQOFdyS32ovLFBrcBbvgYWllEAf7sVYvkO2ukwnRTOsWJYa6XR6LD2p55TTWBLfokvfP8/Pcr2gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ching\\Dropbox\\GitHub\\Using_tyRCore\\Using_tyRcore\\Using_tyRcore.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ching\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
