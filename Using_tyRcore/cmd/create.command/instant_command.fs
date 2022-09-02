@@ -14,7 +14,7 @@ open Autodesk.Revit.Attributes
 /// <summary>
 /// Here write your summary
 /// </summary>
-type ``Instant Command``() as this =
+type ``Instantly``() as this =
     interface IExternalCommand with
         override x.Execute(cdata, msg, elset) =
             // Write your code
