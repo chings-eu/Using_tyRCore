@@ -8,7 +8,7 @@ Visit [tailoryourbim.com] for more information and check [this blog entry][Compi
 Here are a few screenshots introducing how to install tyRCore into your system and run your F# codes instantly in Autodesk Revit right after you save them.
 
 ## Install tyRCore
-![Run setup as admin](/assets/img/001_Run install as admin.png)
+![Run setup as admin](../assets/img/001_Run install as admin.png)
 
 ## Load Your F# Codes in Revit
 
