@@ -9,6 +9,9 @@ Here are a few screenshots introducing how to install tyRCore into your system a
 
 ## Install tyRCore
 ![Run setup as admin](../assets/img/001_Run install as admin.png)
+<p align="center">
+    <img src="/assets/img/001_Run install as admin.png" style="width:80%;">
+</p>
 
 ## Load Your F# Codes in Revit
 
