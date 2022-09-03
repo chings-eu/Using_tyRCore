@@ -10,53 +10,41 @@ Here are a few screenshots introducing how to install tyRCore into your system a
 ## Install tyRCore
 
 * With a right click, run this setup program as administrator.  
-<!-- ![Run setup as admin](/assets/img/1_01_Run%20install%20as%20admin.png)   -->
 <p align="center"><img src="/assets/img/1_01_Run%20install%20as%20admin.png" width="400"></p>
 
 * Recommended is to install the add-in for current user account.  
-<!-- ![Install for current user](/assets/img/1_02_Install%20for%20current%20user.png) -->
 <p align="center"><img src="/assets/img/1_02_Install%20for%20current%20user.png" width="300"></p>
 
 * License  
 <p align="center"><img src="/assets/img/1_03_Agree%20on%20license.png" width="400"></p>
-<!-- ![License](/assets/img/1_03_Agree%20on%20license.png) -->
 
 * Check the install path in the following page.  
 <p align="center"><img src="/assets/img/1_04_Info%20before%20installation.png" width="400"></p>
-<!-- ![Info before install](/assets/img/1_04_Info%20before%20installation.png) -->
 
 * Default path: Add-In folder for Revit 2022  
 <p align="center"><img src="/assets/img/1_05_Default%20install%20path.png" width="400"></p>
-<!-- ![Install path](/assets/img/1_05_Default%20install%20path.png) -->
 
 * Start menu group  
 <p align="center"><img src="/assets/img/1_06_Setup%20menu.png" width="400"></p>
-<!-- ![Start menu](/assets/img/1_06_Setup%20menu.png) -->
 
 * Ready to install  
 <p align="center"><img src="/assets/img/1_07_Click%20install.png" width="400"></p>
-<!-- ![Click to install](/assets/img/1_07_Click%20install.png) -->
 
 * Install is running.  
 <p align="center"><img src="/assets/img/1_08_Installing.png" width="400"></p>
-<!-- ![Installing](/assets/img/1_08_Installing.png) -->
 
 * Information after installation. Including how to uninstall.  
 <p align="center"><img src="/assets/img/1_09_Thank%20you%20note.png" width="400"></p>
-<!-- ![Info after install](/assets/img/1_09_Thank%20you%20note.png) -->
 
 * Click finish to end the installation.  
 <p align="center"><img src="/assets/img/1_10_Finishing.png" width="400"></p>
-<!-- ![Finish](/assets/img/1_10_Finishing.png) -->
 
 * Here are the distributed files after installation.  
 <p align="center"><img src="/assets/img/1_11_Distrubuted%20files.png" width="400"></p>
-<!-- ![Where are the distributed files](/assets/img/1_11_Distrubuted%20files.png) -->
 
 ## Load Your F# Codes in Revit
 ### First loading the external application
 * Allow Revit to load tyRCore everytime it starts up.  
-<!-- ![Alwayrs load](/assets/img/2_01_Always%20load.png)   -->
 <p align="center"><img src="/assets/img/2_01_Always%20load.png" width="400"></p>
 
 
@@ -73,18 +61,15 @@ And Now, you can fire up with a click on either of these two buttons, and choose
 
 ### Loading your codes is simple:
 * Tell tyRCore how many ribbon tab you're about to load.  
-<!-- ![How many ribbons](/assets/img/3_01_How%20many%20ribbons.png) -->
 <p align="center"><img src="/assets/img/3_01_How%20many%20ribbons.png" width="400"></p>
 
 * Choose command folder to be loaded as a ribbon tab.  
-<!-- ![Command folder](/assets/img/3_02_Folder%20structure.png) -->
 <p align="center"><img src="/assets/img/3_02_Folder%20structure.png" height="400"></p>
 
 * Loaded as structured ribbon tab  
 ![Ribbon tab](/assets/img/3_03_Loaded%20ribbon%20tab.png)
 
 * Visual Solution explorer  
-<!-- ![Solution explorer](/assets/img/3_04_Solution%20explorer.png) -->
 <p align="center"><img src="/assets/img/3_04_Solution%20explorer.png" width="400"></p>
 
 * Next time, if you add a new one or change the name of the existing command, just hit the loading button again with the same selected folder.
