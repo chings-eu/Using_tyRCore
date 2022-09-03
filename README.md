@@ -63,6 +63,9 @@ And Now, you can fire up with a click on either of these two buttons, and choose
 
 * Choose command folder to be loaded as a ribbon tab.  
 ![Command folder](/assets/img/3_02_Folder%20structure.png)
+<p align="center">
+    <img src="/assets/img/3_02_Folder%20structure.png" style="height:400;">
+</p>
 
 * Loaded as structured ribbon tab  
 ![Ribbon tab](/assets/img/3_03_Loaded%20ribbon%20tab.png)
