@@ -58,16 +58,16 @@ The reason that we need a button also under the external tools pulldown-button i
 And Now, you can fire up with a click on either of these two buttons, and choose the *_cmd_* folder for turning your codes into command buttons!
 
 ### Loading your codes is simple:
-* Tell tyRCore how many ribbon tab you're about to load.
+* Tell tyRCore how many ribbon tab you're about to load.  
 ![How many ribbons](/assets/img/3_01_How%20many%20ribbons.png)
 
-* Choose command folder to be loaded as a ribbon tab.
+* Choose command folder to be loaded as a ribbon tab.  
 ![Command folder](/assets/img/3_02_Folder%20structure.png)
 
-* Loaded as structured ribbon tab
+* Loaded as structured ribbon tab  
 ![Ribbon tab](/assets/img/3_03_Loaded%20ribbon%20tab.png)
 
-* Visual Solution explorer
+* Visual Solution explorer  
 ![Solution explorer](/assets/img/3_04_Solution%20explorer.png)
 
 * Next time, if you add a new one or change the name of the existing command, just hit the loading button again with the same selected folder.
