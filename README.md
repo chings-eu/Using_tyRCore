@@ -15,42 +15,42 @@ Here are a few screenshots introducing how to install tyRCore into your system a
 * Recommended is to install the add-in for current user account.  
 ![Install for current user](/assets/img/1_02_Install%20for%20current%20user.png)
 
-* License
+* License  
 ![License](/assets/img/1_03_Agree%20on%20license.png)
 
-* Check the install path in the following page.
+* Check the install path in the following page.  
 ![Info before install](/assets/img/1_04_Info%20before%20installation.png)
 
-* Default path: Add-In folder for Revit 2022
+* Default path: Add-In folder for Revit 2022  
 ![Install path](/assets/img/1_05_Default%20install%20path.png)
 
-* Start menu group
+* Start menu group  
 ![Start menu](/assets/img/1_06_Setup%20menu.png)
 
-* Ready to install
+* Ready to install  
 ![Click to install](/assets/img/1_07_Click%20install.png)
 
-* Install is running.
+* Install is running.  
 ![Installing](/assets/img/1_08_Installing.png)
 
-* Information after installation. Including how to uninstall.
+* Information after installation. Including how to uninstall.  
 ![Info after install](/assets/img/1_09_Thank%20you%20note.png)
 
-* Click finish to end the installation.
+* Click finish to end the installation.  
 ![Finish](/assets/img/1_10_Finishing.png)
 
-* Here are the distributed files after installation.
+* Here are the distributed files after installation.  
 ![Where are the distributed files](/assets/img/1_11_Distrubuted%20files%20in%20Revit%202022%20addins.png)
 
 ## Load Your F# Codes in Revit
 ### First loading the external application
-* Allow Revit to load tyRCore everytime it starts up.
+* Allow Revit to load tyRCore everytime it starts up.  
 ![Alwayrs load](/assets/img/2_01_Always%20load.png)  
 
 ### There are two places where you can call the loading command:
-* As a standalone add-in
+* As a standalone add-in  
 ![Pushbutton standalone](/assets/img/2_02_Button%20in%20Add-Ins%20Tab.png)  
-* Included in the _tyRevt_ tab.
+* Included in the _tyRevt_ tab.  
 ![Pushbutton tyR tab](/assets/img/2_03_Button%20in%20tyR%20Tab.png)
 
 The reason that we need a button also under the external tools pulldown-button is that we can then call and load our F# source codes independently, without opening any Revit document first, for we might want sometimes to run our external command formlessly. 
