@@ -15,7 +15,7 @@ Here are a few screenshots introducing how to install tyRCore into your system a
 
 * Recommended is to install the add-in for current user account.  
 <!-- ![Install for current user](/assets/img/1_02_Install%20for%20current%20user.png) -->
-<p align="center"><img src="/assets/img/1_02_Install%20for%20current%20user.png" width="400"></p>
+<p align="center"><img src="/assets/img/1_02_Install%20for%20current%20user.png" width="300"></p>
 
 * License  
 <p align="center"><img src="/assets/img/1_03_Agree%20on%20license.png" width="400"></p>
@@ -62,12 +62,10 @@ Here are a few screenshots introducing how to install tyRCore into your system a
 
 ### There are two places where you can call the loading command:
 * As a standalone add-in  
-<!-- ![Pushbutton standalone](/assets/img/2_02_Button%20in%20Add-Ins%20Tab.png)   -->
-<p align="center"><img src="/assets/img/2_02_Button%20in%20Add-Ins%20Tab.png" width="400"></p>
+![Pushbutton standalone](/assets/img/2_02_Button%20in%20Add-Ins%20Tab.png)  
 
 * Included in the _tyRevt_ tab.  
-<!-- ![Pushbutton tyR tab](/assets/img/2_03_Button%20in%20tyR%20Tab.png) -->
-<p align="center"><img src="/assets/img/2_03_Button%20in%20tyR%20Tab.png" width="400"></p>
+![Pushbutton tyR tab](/assets/img/2_03_Button%20in%20tyR%20Tab.png)
 
 The reason that we need a button also under the external tools pulldown-button is that we can then call and load our F# source codes independently, without opening any Revit document first, for we might want sometimes to run our external command formlessly. 
 
@@ -83,8 +81,7 @@ And Now, you can fire up with a click on either of these two buttons, and choose
 <p align="center"><img src="/assets/img/3_02_Folder%20structure.png" height="400"></p>
 
 * Loaded as structured ribbon tab  
-<!-- ![Ribbon tab](/assets/img/3_03_Loaded%20ribbon%20tab.png) -->
-<p align="center"><img src="/assets/img/3_03_Loaded%20ribbon%20tab.png" width="400"></p>
+![Ribbon tab](/assets/img/3_03_Loaded%20ribbon%20tab.png)
 
 * Visual Solution explorer  
 <!-- ![Solution explorer](/assets/img/3_04_Solution%20explorer.png) -->
