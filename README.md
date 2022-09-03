@@ -73,6 +73,7 @@ And Now, you can fire up with a click on either of these two buttons, and choose
 <p align="center"><img src="/assets/img/3_04_Solution%20explorer.png" width="400"></p>
 
 * Next time, if you add a new one or change the name of the existing command, just hit the loading button again with the same selected folder.
+![Ribbon tab](/assets/img/3_05_Reload.png)
 
 ## Work with Visual Studio
 It'll then all go smoothly, after all the setups are done.  
